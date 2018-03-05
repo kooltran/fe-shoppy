@@ -1,3 +1,7 @@
-/node_modules
-/dist
-/.cache
+.cache
+.idea
+node_modules
+dist
+package-lock.json
+yarn.lock
+yarn-error.log
